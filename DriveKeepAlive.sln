@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveKeepAlive", "DriveKeepAlive\DriveKeepAlive.csproj", "{B489026D-7D3F-4B73-8E6D-42AA2DE17163}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DriveKeepAliveSetup", "DriveKeepAliveSetup\DriveKeepAliveSetup.vdproj", "{2F60F3B2-6E42-48BB-AB73-EBC1D82C2E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B489026D-7D3F-4B73-8E6D-42AA2DE17163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B489026D-7D3F-4B73-8E6D-42AA2DE17163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B489026D-7D3F-4B73-8E6D-42AA2DE17163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B489026D-7D3F-4B73-8E6D-42AA2DE17163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F60F3B2-6E42-48BB-AB73-EBC1D82C2E57}.Debug|Any CPU.ActiveCfg = Debug
+		{2F60F3B2-6E42-48BB-AB73-EBC1D82C2E57}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
